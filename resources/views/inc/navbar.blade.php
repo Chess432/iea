@@ -22,7 +22,7 @@
             </li>
             <li class="nav-item submenu dropdown"><a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">eLearning Services</a>
               <ul class="dropdown-menu">
-                  <li class="nav-item"><a class="nav-link" href="/iea/public/services/mobile-learning">Mobile Learning</a></li>
+                  <li class="nav-item"><a class="nav-link" href="/services/mobile-learning">Mobile Learning</a></li>
                   <li class="nav-item"><a class="nav-link" href="/iea/public/services/flash-to-html5">Flash to HTML5 conversion</a></li>
                   <li class="nav-item"><a class="nav-link" href="/iea/public/services/rapid-development">Rapid eLearning Development Solutions</a></li>
                   <li class="nav-item"><a class="nav-link" href="/iea/public/services/blended-learning">Blended Learning Solutions</a></li>

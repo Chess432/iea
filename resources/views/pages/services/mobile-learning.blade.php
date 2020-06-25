@@ -65,6 +65,10 @@
                       <h3>Enlightenment Revision Kit</h3>
                       <p>We have a KCPE Revision Application to help your child adequately prepare for the Exams. The application mimics a real exam environment with additional features such as automated marking of exam, revision for questions, report analysis and more.</p>
                   <a href="../../downloads/Enlightenment.apk" class="btn btn-success" download="Enlightenment">Download APK</a>
+
+                  <h3 class="mt-5">Pefa South B App</h3>
+                      <p>Download the PEFA South B app.</p>
+                  <a href="../../downloads/PefaSB.apk" class="btn btn-primary" download="PefaSB">Download APK</a>
                        </div> 
                      
                          
